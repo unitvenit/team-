@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u0444\u044B\u0432\u0430\u043F\u0440\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\tems\\team-\\dungeon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C067C338-D3EC-1B5E-DC28-4DB60FA35BEB}|Assembly-CSharp.csproj|e:\\\u0444\u044B\u0432\u0430\u043F\u0440\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\tems\\team-\\dungeon\\assets\\sc\\pistalet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C067C338-D3EC-1B5E-DC28-4DB60FA35BEB}|Assembly-CSharp.csproj|solutionrelative:assets\\sc\\pistalet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pistalet.cs",
+              "DocumentMoniker": "E:\\\u0444\u044B\u0432\u0430\u043F\u0440\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\tems\\team-\\dungeon\\Assets\\Sc\\pistalet.cs",
+              "RelativeDocumentMoniker": "Assets\\Sc\\pistalet.cs",
+              "ToolTip": "E:\\\u0444\u044B\u0432\u0430\u043F\u0440\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\tems\\team-\\dungeon\\Assets\\Sc\\pistalet.cs",
+              "RelativeToolTip": "Assets\\Sc\\pistalet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T15:14:27.467Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
