@@ -57,6 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\ModularFirstPersonController\FirstPersonController\FirstPersonController.cs" />
+    <Compile Include="Assets\Scripts\pistalet.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
